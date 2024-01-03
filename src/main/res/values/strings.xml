@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidPhotos87</string>
+
+    <string-array name="tags">
+        <item>Person</item>
+        <item>Location</item>
+    </string-array>
+
+    <string-array name="logic_options">
+        <item></item> <!-- Empty item -->
+        <item>AND</item>
+        <item>OR</item>
+    </string-array>
+    //
+
+</resources>
